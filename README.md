@@ -19,7 +19,7 @@ Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e
 
 ### Version Control: <img src="https://img.shields.io/badge/github%20-23121011.svg?&style=for-the-badge&logo=github&logoColo=white"/>
 
-## O que eu não sei, me dê alguns dias 😁
+## Sobre que eu não sei, só me dê alguns dias 😁
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=NaNrIbEiRo&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/NaNrIbEiRo)
 
