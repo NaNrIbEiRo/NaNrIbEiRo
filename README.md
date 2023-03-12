@@ -5,17 +5,19 @@
 
 ## Sobre mim:
 
-Estou cursando Ensino Superior em ADS 😁:
+Estou cursando Ensino Superior em ADS.
 
 Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
 
 ## Minhas especialidades:
 
-### Linguages: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
+### Linguagens: <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
 
-### Database: <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+### Frontend: <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5%&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3%&logoColor=white"/>
 
-### Outros: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+### Backend: <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColo=white"/>
+
+### Version Control: <img src="https://img.shields.io/badge/github%20-23121011.svg?&style=for-the-badge&logo=github&logoColo=white"/>
 
 ## O que eu não sei, me dê alguns dias 😁
 
