@@ -5,7 +5,7 @@
 
 ## Sobre mim:
 
-Estou cursando Ensino Superior em ADS.
+Sou graduado no Ensino Superior em ADS.
 
 Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
 
